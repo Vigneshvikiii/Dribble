@@ -118,7 +118,7 @@ web.html
   <!-- Footer -->
   <footer class="bg-black text-white text-center">
     <div class="container">
-        <p>&copy; 2024 PharmaCompany. All rights reserved. BY ABISHAI(212223240002)</p>
+        <p>&copy; 2024 PharmaCompany. All rights reserved. BY ABISHEK(212223240009)</p>
     </div>
 </footer>
 
@@ -239,7 +239,7 @@ product.html
   <!-- Footer -->
   <footer>
     <div class="container">
-      <p>&copy; 2024 PharmaCompany. All rights reserved. BY ABISHAI(212223240002)</p>
+      <p>&copy; 2024 PharmaCompany. All rights reserved. BY ABISHEK(212223240009)</p>
     </div>
   </footer>
 
@@ -348,7 +348,7 @@ about.html
   <!-- Footer -->
   <footer>
     <div class="container">
-      <p>&copy; 2024 PharmaCompany. All rights reserved. BY ABISHAI K C(212223240002)</p>
+      <p>&copy; 2024 PharmaCompany. All rights reserved. BY ABISHEK(212223240009)</p>
     </div>
   </footer>
 
@@ -442,7 +442,7 @@ contact.html
 
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-5">
-    <p>&copy; 2024 PharmaCompany. All rights reserved.  BY ABISHAI(212223240002)</p>
+    <p>&copy; 2024 PharmaCompany. All rights reserved.  BY ABISHEK(212223240009)</p>
   </footer>
 
   <!-- Bootstrap JS -->
